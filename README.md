@@ -1,7 +1,7 @@
 # Introduction
 📊 Explore the world of data careers! Centered on data analyst positions, this project uncovers 💰 the highest-paying opportunities, 🔥 the most sought-after skills, and 📈 the sweet spot where strong demand meets lucrative salaries in analytics.
 
-🔍 SQL queries? Check them out here: [project_sql_folder](/project_sql/2_top_paying_job_skills.sql)
+🔍 SQL queries? Check them out here: [project_sql_folder](/project_sql/)
 # Background
 🚀 Motivated by the goal of navigating the data analyst job market with greater clarity, this project was created to spotlight the most lucrative roles and the skills most in demand—helping others streamline their search for the best opportunities.
 
